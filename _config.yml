@@ -1,0 +1,23 @@
+# Site settings
+title: On building portofolio
+description: "A work in progress portofolio about manual and automatin testing tech."
+author: Liberta Gani
+email: ganiliberta@gmail.com
+baseurl: ""  # Leave empty if deploying to root, otherwise set to "/your-repo-name"
+url: "https://G-Liberta.github.io"
+
+# Theme settings
+theme: architect  
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Social links
+Linkedin_username: www.linkedin.com/in/libertagani
+github_username: G-Liberta
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
